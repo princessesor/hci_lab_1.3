@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hci_lab_1.3/static/css/main.38717867.css",
+    "main.js": "/hci_lab_1.3/static/js/main.ddedaec7.js",
+    "static/js/787.85a99eaf.chunk.js": "/hci_lab_1.3/static/js/787.85a99eaf.chunk.js",
+    "index.html": "/hci_lab_1.3/index.html",
+    "main.38717867.css.map": "/hci_lab_1.3/static/css/main.38717867.css.map",
+    "main.ddedaec7.js.map": "/hci_lab_1.3/static/js/main.ddedaec7.js.map",
+    "787.85a99eaf.chunk.js.map": "/hci_lab_1.3/static/js/787.85a99eaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38717867.css",
+    "static/js/main.ddedaec7.js"
+  ]
+}
